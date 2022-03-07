@@ -1,1 +1,3 @@
-# TweetsSentimentAnalysis
+# Tweets Sentiment Analysis
+
+#### @author: cmkqwerty
